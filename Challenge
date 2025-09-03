@@ -1,0 +1,61 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>School Marksheet</title>
+</head>
+<body>
+
+    <h2>School Marksheet</h2>
+
+    <p><b>Student Name:</b> John Doe</p>
+    <p><b>Roll No:</b> 101</p>
+    <p><b>Class:</b> 10th</p>
+    <p><b>Section:</b> A</p>
+
+    <table border="1" cellpadding="5" cellspacing="0">
+        <tr>
+            <th>Subject</th>
+            <th>Marks Obtained</th>
+            <th>Total Marks</th>
+        </tr>
+        <tr>
+            <td>Mathematics</td>
+            <td>88</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Science</td>
+            <td>92</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>English</td>
+            <td>85</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Social Studies</td>
+            <td>90</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Computer</td>
+            <td>95</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <th>Total</th>
+            <th>450</th>
+            <th>500</th>
+        </tr>
+        <tr>
+            <th colspan="2">Percentage</th>
+            <td>90%</td>
+        </tr>
+    </table>
+
+</body>
+</html>l 
+
